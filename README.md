@@ -12,7 +12,9 @@ First clone the repository and install all the required modules. Then run the fo
 python main.py
 ```
 
-You need to fill all the fields before adding the data. You can search for a specific password by enter the site name (try "amazon").
+Fill all the fields before adding the password. The data will be stored in data.json file.
+
+You can search for a specific password by enter the site name (try "amazon").
 
 ## Show your support
 
